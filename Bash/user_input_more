@@ -1,0 +1,14 @@
+#!/bin/bash
+#read -p 'username: ' uservar
+#read -sp ' Password: ' passvar
+#echo
+#echo Thankyou $uservar we now have your login details
+echo What cars do you like?
+read car1
+echo what else
+read car2
+echo what else?
+read  car3
+echo Your First car was: $car1
+echo your second car was $car2
+echo you third car was: $car3
